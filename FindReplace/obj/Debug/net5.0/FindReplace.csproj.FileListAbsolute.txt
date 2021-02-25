@@ -1,0 +1,12 @@
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.AssemblyInfo.cs
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\bin\Debug\net5.0\FindReplace.deps.json
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\bin\Debug\net5.0\FindReplace.dll
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\bin\Debug\net5.0\ref\FindReplace.dll
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\bin\Debug\net5.0\FindReplace.pdb
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.dll
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\ref\FindReplace.dll
+C:\Users\Dani\Desktop\Epicodus\FindAndReplace\FindReplace\obj\Debug\net5.0\FindReplace.pdb
