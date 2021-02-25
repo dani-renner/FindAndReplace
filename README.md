@@ -1,6 +1,6 @@
-# Rock! Paper! Scissors!
+# Find and Replace
 
-#### Return a number that's written with digits as English words instead!
+#### Find a word within a string and replace it with another word!
 
 #### By Dani Renner and Woo Jin Kim
 
@@ -10,7 +10,7 @@
 * MSTest
 
 ## Description
-_This program takes in a number using digits and will translate it into English words._
+_This program takes in a word and a string and another word to replace the first word!_
 
 
 ## Setup/Installation Requirements
